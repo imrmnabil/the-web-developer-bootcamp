@@ -10,3 +10,5 @@
 ### Section 5
 * Exercise 5
 * Exercise 6
+### Section 6
+* Exercise 7
