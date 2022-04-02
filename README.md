@@ -1,5 +1,5 @@
-# The Web Developer Bootcamp 2022
-============================
+The Web Developer Bootcamp 2022
+===============================
 ## Current Progress
 ### Section 3
 * Exercise 1
