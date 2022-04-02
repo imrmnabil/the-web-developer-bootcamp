@@ -9,3 +9,4 @@
 * Exercise 4
 ### Section 5
 * Exercise 5
+* Exercise 6
