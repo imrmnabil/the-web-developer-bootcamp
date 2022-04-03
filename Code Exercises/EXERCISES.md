@@ -72,6 +72,7 @@ Let's get some practice with HTML Images and Anchor Elements.  In **index.html**
 
 <p>It's time to get some practice with all those table-related elements! (yikes)&nbsp; Your goal is to create a 3x3 table, with proper headings. (so it's really 4x3 if you count the heading cells)&nbsp; I've provided you with some starter data in <code>index.html</code>, though you do not have to use it.&nbsp; Just make sure you create a 3x3 table with a row of headings at the top, using the correct semantic elements. You are expected to use the following elements: <code>table</code>, <code>thead</code>, <code>tr</code>, <code>th</code>, <code>tbody</code>, and <code>td</code></p>
 <p>Here is what the table would look like with the starter data provided in index.html:</p>
+
 ![](resource/o5.png)
 
 ### Given Code Templetes:<br>
@@ -182,6 +183,7 @@ Business | $49.99 | 24/7
 ## Coding Exercise 9: Basic Selectors Practice
 <p>It's time to get some practice with the new CSS Selectors we just learned. Without touching any of the starter HTML code in <code>index.html</code>, write CSS in <code>app.css</code> according to these rules:</p>
 <ul><li><p>Give all <code>li</code> elements the text color <code>blue</code></p></li><li><p>Give all elements with the class of <code>done</code> the text color <code>grey</code></p></li><li><p>Give the element with the id <code>clear</code> a <code>red</code> background and <code>white</code> text</p></li></ul>
+
 ![](resource/o9.png)
 
 ### Given Code Templetes:<br>
