@@ -56,7 +56,9 @@ Let's get some practice with HTML Images and Anchor Elements.  In **index.html**
 ```
 ## Coding Exercise 4: Snowman Logo Exercise
 <p>It's time for more practice!&nbsp; Please write an <code>&lt;h1&gt;</code> element to recreate the following image:</p>
+
 ![](resource/o4.png)
+
 <ul><li><p>There is a <code><em>snowman</em></code> entity code.&nbsp; Find it! (you will need to google it)</p></li><li><p>Use the <code><em>registered trademark</em></code> entity code (the circled R at the end) , AND be sure to make it <strong>superscript</strong></p></li></ul>
 <p><strong>Note: No one expects you to memorize any of the entity codes.&nbsp; Get used to googling them! It's normal!</strong></p>
 
