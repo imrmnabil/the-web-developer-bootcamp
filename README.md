@@ -13,3 +13,5 @@ The Web Developer Bootcamp 2022
 ### Section 6
 * Exercise 7
 * Exercise 8
+### Section 7
+* Exercise 9
