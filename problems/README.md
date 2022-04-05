@@ -266,7 +266,8 @@ Business | $49.99 | 24/7
 <head>
 
   <title>Checkerboard</title>
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
+  <link rel="stylesheet" href="NO_TOUCHING.css">
+  <link rel="stylesheet" href="app.css">
 
 </head>
 
