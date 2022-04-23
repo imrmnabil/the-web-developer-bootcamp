@@ -1,3 +1,5 @@
+# Section 3
+
 ## Coding Exercise 1: Pangolin Practice
 Let's get a little bit of practice with **index.html** file, you'll find some starter text.  Please add in the appropriate paragraph and heading elements to recreate what is shown in this image:
 ![ ](resource/o1.png)
@@ -22,6 +24,8 @@ Pangolins are threatened by poaching (for their meat and scales, which are used 
 
 ```
 
+<hr>
+
 ## Coding Exercise 2: Favorite Movies Exercises
 It's time to practice working with **ordered and unordered lists** . In the index.html file, you will find some existing markup.  Please add on to the markup to recreate the two lists in the following image. 
 ![](resource/o2.png)
@@ -43,8 +47,12 @@ Alien
 Parasite
 Annie Hall
 ```
+
+<hr>
+
 ## Coding Exercise 3: Wolf Images & Links Exercise
 Let's get some practice with HTML Images and Anchor Elements.  In **index.html** , please do the following:<ul><li><p>Create a link that goes to this url: <strong>https://en.wikipedia.org/wiki/Wolf</strong> Use whatever link text you would like!</p></li><li><p>Create an image element using this source: <strong>https://upload.wikimedia.org/wikipedia/commons/5/5f/Kolm%C3%A5rden_Wolf.jpg</strong></p></li><li><p>Make sure to include some alt text on the image!</p></li></ul>
+
 
 ### Given Code Templetes:<br>
 
@@ -54,6 +62,11 @@ Let's get some practice with HTML Images and Anchor Elements.  In **index.html**
 <!-- link: https://en.wikipedia.org/wiki/Wolf -->
 <!-- image: https://upload.wikimedia.org/wikipedia/commons/5/5f/Kolm%C3%A5rden_Wolf.jpg -->
 ```
+
+<hr>
+
+# Section 4
+
 ## Coding Exercise 4: Snowman Logo Exercise
 <p>It's time for more practice!&nbsp; Please write an <code>&lt;h1&gt;</code> element to recreate the following image:</p>
 
@@ -67,6 +80,10 @@ Let's get some practice with HTML Images and Anchor Elements.  In **index.html**
 ```
 <!--Write Your Code In Here!-->
 ```
+
+<hr>
+
+# Section 5
 
 ## Coding Exercise 5: Table Practice Exercise
 
@@ -86,6 +103,8 @@ Free | Free | N/A
 Personal | $9.99 | Weekdays 
 Business | $49.99 | 24/7 
 ```
+
+<hr>
 
 ### Coding Exercise 6: Forms Practice Exercise
 
@@ -127,6 +146,11 @@ Business | $49.99 | 24/7
 
 </html>
 ```
+
+<hr>
+
+# Section 6
+
 ### Coding Exercise 7: Our First CSS Exercise
 <p>Time for some basic CSS&nbsp;practice! I've provided you with some basic HTML markup in index.html, please don't touch it!&nbsp; I've also made a <code>styles.css</code> file for you to work in.&nbsp; Please style the elements according to these rules:</p>
 
@@ -155,6 +179,9 @@ Business | $49.99 | 24/7
 *styles.css*
 ```
 ```
+
+<hr>
+
 ## Coding Exercise 8: Hipster Logo Exercise
 <p>I'm opening up a very hip artisanal vodka company called <em>Purple Grain</em>. Please help complete my incredibly ugly logo. Style the <code>&lt;h1&gt;</code> with the following styles:</p>
 <ul><li><p>uppercase all the letters, without touching the html! (note: you weren't taught how to do this, you will need to flex your googling skills)</p></li><li><p>set the font-family to be 'monospace'</p></li><li><p>center align the text</p></li><li><p>set the font weight to 100</p></li><li><p>make the text size 40px</p></li><li><p>set spacing between letters to 20px</p></li><li><p>add a wavy plum underline (plum is the color) - I can't test this, but make sure it looks like the image!</p></li></ul>
@@ -179,6 +206,10 @@ Business | $49.99 | 24/7
 ```
 /*YOUR CODE GOES IN HERE*/
 ```
+
+<hr>
+
+# Section 7
 
 ## Coding Exercise 9: Basic Selectors Practice
 <p>It's time to get some practice with the new CSS Selectors we just learned. Without touching any of the starter HTML code in <code>index.html</code>, write CSS in <code>app.css</code> according to these rules:</p>
@@ -210,6 +241,8 @@ Business | $49.99 | 24/7
 /* Make the element with the id of 'clear' have a red BG and white text */
 
 ```
+
+<hr>
 
 ## Coding Exercise 10: Descendant Combinator Practice
 
@@ -247,6 +280,8 @@ Business | $49.99 | 24/7
 ```
 
 ```
+
+<hr>
 
 ## Coding Exercise 11: Checkerboard Exercise
 
@@ -330,6 +365,10 @@ Business | $49.99 | 24/7
 
 ```
 
+<hr>
+
+# Section 8
+
 ## Coding Exercise 12: Box Model Practice
 
 <p>Using what we just learned about the box model, width/height, and border...Add some styles to the <code>app.css</code> file to recreate the following image: <strong>(scroll down for specific instructions)</strong></p>
@@ -357,6 +396,10 @@ Business | $49.99 | 24/7
 ```
 /* YOUR CODE GOES IN HERE */
 ```
+
+<hr>
+
+# Section 12
 
 ## Coding Exercise 13: Bootstrap Basics Practice
 
@@ -395,7 +438,9 @@ Business | $49.99 | 24/7
 
 ```
 
-##Coding Exercise 14: Bootstrap Grid Practice
+<hr>
+
+## Coding Exercise 14: Bootstrap Grid Practice
 
 <p>Please recreate the layout pictured below.&nbsp; I've included bootstrap for you, but you'll need to create all the relevant markup (container, row, column, etc.). I'm not testing your code for the specific colors, but I recommend giving the columns background colors so that you can differentiate them.&nbsp; I'm also not testing for the specific text in each column. </p>
 
@@ -423,4 +468,226 @@ Business | $49.99 | 24/7
 
 
 ```
-# Coming Soon...
+
+<hr>
+
+# Section 14
+
+## Coding Exercise 15: Our First Variables Exercise
+
+<div data-purpose="safely-set-inner-html:rich-text-viewer:html" class="udlite-text-sm rt-scaffolding" style="font-family: &quot;udemy sans&quot;, &quot;sf pro text&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;segoe ui&quot;, Helvetica, Arial, sans-serif, &quot;apple color emoji&quot;, &quot;segoe ui emoji&quot;, &quot;segoe ui symbol&quot;, Bangla835, sans-serif;"><p>In <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">index.js</code>, please define TWO&nbsp;variables:</p><ul><li><p>Define a variable called <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">myLuckyNumber</code> and set it equal to <strong>37</strong>. </p></li><li><p>Define a variable called <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">octopusLimbs</code> and set it equal to <strong>8</strong>.</p></li></ul></div>
+
+
+
+### Given Code Templetes:<br>
+*index.js*
+```
+// Define a variable called myLuckyNumber and set it equal to 37
+
+
+```
+<hr>
+
+## Coding Exercise 16: Our First Constants Exercise
+
+<div data-purpose="safely-set-inner-html:rich-text-viewer:html" class="udlite-text-sm rt-scaffolding" style="font-family: &quot;udemy sans&quot;, &quot;sf pro text&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;segoe ui&quot;, Helvetica, Arial, sans-serif, &quot;apple color emoji&quot;, &quot;segoe ui emoji&quot;, &quot;segoe ui symbol&quot;, Bangla835, sans-serif;"><p>Let's get some practice defining constants. In <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">index.js</code>, please define the following two variables:</p><ul><li><p>Define a <strong>constant</strong> called <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">boilingPointC</code> and set it to <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">100</code>.&nbsp; </p></li><li><p>Define a second <strong>constant </strong>called <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">boilingPointF</code> and set it to <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">212</code>.&nbsp; </p></li><li><p>That's it! </p></li></ul><p>(technically, I can't test that you are using <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">const</code> instead of <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">let</code>...so you're on the honor system here<strong>! DO&nbsp;THE&nbsp;RIGHT&nbsp;THING&nbsp;AND&nbsp;USE </strong><code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;"><strong>const</strong></code><strong>!</strong></p></div>
+
+
+
+### Given Code Templetes:<br>
+*index.js*
+```
+// YOU CODE GOES HERE:
+
+
+```
+
+<hr>
+
+# Section 15
+
+## Coding Exercise 17: Our First String Variables Practice
+
+<div data-purpose="safely-set-inner-html:rich-text-viewer:html" class="udlite-text-sm rt-scaffolding" style="font-family: &quot;udemy sans&quot;, &quot;sf pro text&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;segoe ui&quot;, Helvetica, Arial, sans-serif, &quot;apple color emoji&quot;, &quot;segoe ui emoji&quot;, &quot;segoe ui symbol&quot;, Bangla835, sans-serif;"><p>Please define the following string variables (you can use either let or const):</p><ul><li><p><code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">bestColor</code> should be set to the string <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">purple</code> (the best color on planet earth, as we all know);</p></li><li><p><code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">quote</code> should be set to the string <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">You had me at "hello"</code> - be careful about quotation marks, we want <strong>double quotes inside the string</strong>.</p></li></ul></div>
+
+
+
+### Given Code Templetes:<br>
+*index.js*
+```
+// YOU CODE GOES HERE:
+
+
+```
+
+<hr>
+
+## Coding Exercise 18: String Methods Practice
+
+<div data-purpose="safely-set-inner-html:rich-text-viewer:html" class="udlite-text-sm rt-scaffolding" style="font-family: &quot;udemy sans&quot;, &quot;sf pro text&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;segoe ui&quot;, Helvetica, Arial, sans-serif, &quot;apple color emoji&quot;, &quot;segoe ui emoji&quot;, &quot;segoe ui symbol&quot;, Bangla835, sans-serif;"><p>Let's get some practice working with string methods. I've provided you with a variable in index.js called <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">message</code>.&nbsp; Without altering the original value stored in <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">message</code>, please define a variable called <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">whisper</code> that is a <strong>lowercased</strong> version of <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">message</code>, with all the extra space at the beginning and end removed.&nbsp; You will need to use <strong>two string methods that we just covered.</strong>&nbsp; Don't forget you can chain them together on a single line!</p></div>
+
+
+
+### Given Code Templetes:<br>
+*index.js*
+```
+// DON'T TOUCH THIS LINE!
+const message = "    TASTE THE RAINBOW!  "; //DON'T CHANGE THIS LINE PLEASE!
+
+// YOUR CODE BELOW THIS LINE:
+
+
+
+
+
+```
+
+<hr>
+
+## Coding Exercise 19: More String Methods Practice
+
+<div data-purpose="safely-set-inner-html:rich-text-viewer:html" class="udlite-text-sm rt-scaffolding" style="font-family: &quot;udemy sans&quot;, &quot;sf pro text&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;segoe ui&quot;, Helvetica, Arial, sans-serif, &quot;apple color emoji&quot;, &quot;segoe ui emoji&quot;, &quot;segoe ui symbol&quot;, Bangla835, sans-serif;"><p>I've provided you with a <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">word</code> variable, set to <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">"skateboard"</code>.&nbsp; Your goal is to use string methods on <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">word</code>, so that you end up with the string <strong>"beard"</strong>.&nbsp; </p><ol><li><p>Use a string method to extract the "board" part of "skateboard"&nbsp; (using the slice method)</p></li><li><p>Replace the "o" in board with an "e" (using the replace method)</p></li><li><p>Save the result in a variable called <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">facialHair</code></p></li></ol><p>This is another exercise that is very easy to cheat! I can't verify that you actually call the correct string methods.&nbsp; You could just copy and paste the answer into the variable. <strong> BUT&nbsp;IF&nbsp;YOU&nbsp;DO&nbsp;THAT&nbsp;YOU&nbsp;WON'T&nbsp;BE&nbsp;ABLE&nbsp;TO&nbsp;LIVE&nbsp;WITH&nbsp;THE&nbsp;GUILT.&nbsp; IT&nbsp;WILL&nbsp;TEAR&nbsp;YOU&nbsp;APART&nbsp;FOR&nbsp;AS&nbsp;LONG&nbsp;AS&nbsp;YOU&nbsp;LIVE! </strong>So, please follow the spirit of the exercise :)&nbsp;</p></div>
+
+
+
+### Given Code Templetes:<br>
+*index.js*
+```
+// DON'T TOUCH THIS LINE! (please)
+const word = "skateboard"; //Don't change this line!
+
+// YOUR CODE BELOW THIS LINE:
+
+
+```
+
+<hr>
+
+## Coding Exercise 20: String Template Literal Exercise
+
+<div data-purpose="safely-set-inner-html:rich-text-viewer:html" class="udlite-text-sm rt-scaffolding" style="font-family: &quot;udemy sans&quot;, &quot;sf pro text&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;segoe ui&quot;, Helvetica, Arial, sans-serif, &quot;apple color emoji&quot;, &quot;segoe ui emoji&quot;, &quot;segoe ui symbol&quot;, Bangla835, sans-serif;"><p>I've provided you with two variables, <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">die1</code> and <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">die2</code> which represent six-sided dice.&nbsp; Each variable holds a randomly generated integer from 1 to 6.&nbsp; Please create a new variable called <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">roll</code>, which will be a string that displays each die as well as their sum.&nbsp; Follow this pattern:</p><ul><li><p>die1: 3</p></li><li><p>die2: 5</p></li><li><p><strong>roll: "You rolled a 3 and a 5. They sum to 8"</strong></p></li></ul><p>Here is another example with different numbers:</p><ul><li><p>die1: 6</p></li><li><p>die2: 4,</p></li><li><p><strong>roll: You rolled a 6 and a 4. They sum to 10"</strong></p></li></ul><p><br></p></div>
+
+
+
+### Given Code Templetes:<br>
+*index.js*
+```
+// NO TOUCHING! (please)
+const die1 = Math.floor(Math.random() * 6) + 1; //random number from 1-6
+const die2 = Math.floor(Math.random() * 6) + 1; //random number from 1-6
+
+// YOUR CODE BELOW THIS LINE:
+
+
+```
+
+<hr>
+
+# Section 16
+
+## Coding Exercise 21: Our First Conditional Exercise
+
+<div data-purpose="safely-set-inner-html:rich-text-viewer:html" class="udlite-text-sm rt-scaffolding" style="font-family: &quot;udemy sans&quot;, &quot;sf pro text&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;segoe ui&quot;, Helvetica, Arial, sans-serif, &quot;apple color emoji&quot;, &quot;segoe ui emoji&quot;, &quot;segoe ui symbol&quot;, Bangla835, sans-serif;"><p>Let's get some practice with conditional statements!&nbsp; In order to make your code repeatable and testable, I'm asking you to write your code inside a pre-defined function (something we have not yet covered in the course).&nbsp; &nbsp;</p><ul><li><p>Write your code between the two comments in index.js</p></li><li><p>You will automatically have access to a variable called <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">num</code>.&nbsp; <strong>Please do not try and define num or change num in any way!</strong> I will be setting the value of <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">num</code> when I&nbsp;test your code, so that I&nbsp;can test different outcomes</p></li><li><p><strong>If </strong><code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;"><strong>num</strong></code><strong> is an even number, print out "even".&nbsp; Don't do anything if num is an odd number.</strong></p></li></ul></div>
+
+
+
+### Given Code Templetes:<br>
+*index.js*
+```
+function isEven(num){
+    //WRITE YOUR CODE BETWEEN THIS LINE: ↓ ↓ ↓ ↓ 
+   
+   
+    //AND THIS LINE ↑↑↑↑↑
+}
+```
+
+<hr>
+
+## Coding Exercise 22: getColor Conditional Exercise
+
+<div data-purpose="safely-set-inner-html:rich-text-viewer:html" class="udlite-text-sm rt-scaffolding" style="font-family: &quot;udemy sans&quot;, &quot;sf pro text&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;segoe ui&quot;, Helvetica, Arial, sans-serif, &quot;apple color emoji&quot;, &quot;segoe ui emoji&quot;, &quot;segoe ui symbol&quot;, Bangla835, sans-serif;"><p>Let's get some practice with conditional statements!&nbsp; In order to make your code repeatable and testable, I'm asking you to write your code inside a pre-defined function (something we have not yet covered in the course).&nbsp; &nbsp;</p><ul><li><p>Write your code between the two comments in <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">index.js</code></p></li><li><p>You will automatically have access to a variable called <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">phrase</code>.&nbsp; <strong>Please do not try and define phrase or change phrase in any way!</strong> I will be setting the value of <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">phrase</code> when I&nbsp;test your code.</p></li><li><p>Your job is to print out a color based upon the following rules:</p></li></ul><div class="ud-component--base-components--code-block"><div><pre class="prettyprint linenums prettyprinted" role="presentation" style="font-family: Monaco, Menlo, &quot;ubuntu mono&quot;, Consolas, source-code-pro, monospace, &quot;courier new&quot;, Bangla835, sans-serif;"><ol class="linenums"><li class="L0"><span class="kwd">if</span><span class="pln"> phrase </span><span class="kwd">is</span><span class="pln"> </span><span class="str">'stop'</span><span class="pun">,</span><span class="pln"> you should </span><span class="kwd">print</span><span class="pln"> </span><span class="kwd">out</span><span class="pln"> </span><span class="str">'red'</span></li><li class="L1"><span class="kwd">if</span><span class="pln"> phrase </span><span class="kwd">is</span><span class="pln"> </span><span class="str">'slow'</span><span class="pun">,</span><span class="pln"> you should </span><span class="kwd">print</span><span class="pln"> </span><span class="kwd">out</span><span class="pln"> </span><span class="str">'yellow'</span></li><li class="L2"><span class="kwd">if</span><span class="pln"> phrase </span><span class="kwd">is</span><span class="pln"> </span><span class="str">'go'</span><span class="pun">,</span><span class="pln"> you should </span><span class="kwd">print</span><span class="pln"> </span><span class="kwd">out</span><span class="pln"> </span><span class="str">'green'</span></li><li class="L3"><span class="kwd">if</span><span class="pln"> phrase </span><span class="kwd">is</span><span class="pln"> anything </span><span class="kwd">else</span><span class="pun">,</span><span class="pln"> you should </span><span class="kwd">print</span><span class="pln"> </span><span class="kwd">out</span><span class="pln"> </span><span class="str">'purple'</span></li></ol></pre></div></div></div>
+
+
+
+### Given Code Templetes:<br>
+*index.js*
+```
+function getColor(phrase){
+    //WRITE YOUR CODE BETWEEN THIS LINE: ↓ ↓ ↓ ↓ 
+   
+   
+    //AND THIS LINE ↑↑↑↑↑
+}
+
+```
+
+<hr>
+
+## Coding Exercise 23: Nested Conditionals Practice
+
+<div data-purpose="safely-set-inner-html:rich-text-viewer:html" class="udlite-text-sm rt-scaffolding" style="font-family: &quot;udemy sans&quot;, &quot;sf pro text&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;segoe ui&quot;, Helvetica, Arial, sans-serif, &quot;apple color emoji&quot;, &quot;segoe ui emoji&quot;, &quot;segoe ui symbol&quot;, Bangla835, sans-serif;"><p>Time for something a little bit different. I've given you a nested conditional that uses a variable called <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">num</code>.&nbsp; I would like for you to change the value of <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">num</code> to another number, so that <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">"YOU&nbsp;GOT&nbsp;ME!"</code>&nbsp;is printed out.<strong> Don't change anything other than the value of </strong><code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;"><strong>num</strong></code><strong>!&nbsp; Leave the conditional alone!</strong></p></div>
+
+
+
+### Given Code Templetes:<br>
+*index.js*
+```
+// Change the value of num, so that "YOU GOT ME!" prints out
+const num = 0; // THIS IS THE ONLY LINE YOU SHOULD CHANGE :) 
+
+// DO NOT TOUCH ANYTHING BELOW (please) 
+if(num <= 100) {
+    if(num >= 50) {
+        console.log("HEY!");
+    }
+} else {
+    if (num < 103) {
+        if(num % 2 === 0){
+            console.log("YOU GOT ME!");
+        }
+    }
+}
+
+```
+
+<hr>
+
+## Coding Exercise 24: Logical AND Mystery Exercise
+
+<p>I've provided you with a conditional statement that uses a variable called <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">mystery</code>&nbsp; <strong>Please change the value of </strong><code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;"><strong>mystery</strong></code> so that the conditional is true and "YOU&nbsp;GOT&nbsp;IT" is printed to the console.&nbsp; Do not change anything other than the value of <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">mystery</code> on line 1! </p>
+
+
+
+### Given Code Templetes:<br>
+*index.js*
+```
+const mystery = ''; //CHANGE THIS VALUE TO MAKE THE CONDITIONAL BELOW TRUE
+
+
+
+// LEAVE THIS CODE ALONE! (pretty please)
+if(mystery[0] === 'P' && mystery.length > 5 && mystery.indexOf('7') !== -1){
+    console.log("YOU GOT IT!!!");
+}
+
+```
+
+<hr>
+
+# Section 17
+
+## Coding Exercise 25: Lotto Numbers Exercise
+
+<p>Let's get some practice creating arrays. Please define a variable called <code style="font-family: sfmono-regular, Consolas, &quot;liberation mono&quot;, Menlo, Courier, monospace, Bangla835, sans-serif;">lottoNumbers</code> and set it equal to an <strong>array containing any 6 numbers</strong>.&nbsp; It's simple, but we've got to start somewhere!</p>
+
+
+
+### Given Code Templetes:<br>
+*index.js*
+```
+// Define lottoNumbers below:
+
+```
+
+<hr>
